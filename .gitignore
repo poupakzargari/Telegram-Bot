@@ -1,0 +1,4 @@
+# All the different ways that you can ignore files:
+# https://github.com/github/gitignore
+# ignore all .txt files
+*.txt 
